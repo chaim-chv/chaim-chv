@@ -29,4 +29,10 @@ Like you can see - i trying to learn and do some WEB development...
 🤙 אפשר ליצור איתי קשר בטלגרם - [chaimchv](https://t.me/chaimchv)
 #### **📝 פוסטים אחרונים בבלוג שלי:**
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [אפליקציית NodeJS לאוטומציה של העדכונים בבלוג](http://blog.chv.ovh/ghost-webhook-to-newsletter/)
+- [שליחת מייל לרשימת תפוצה (bulk messaging) בקלות עם גוגל סקריפט](http://blog.chv.ovh/gas-bulk-messaging/)
+- [רשימת תפוצה מגוגל סקריפט - לאנשי קשר של גוגל](http://blog.chv.ovh/mailing-list-gas/)
+- [מושגים בסיסיים ב-JS: ההבדלים העיקריים בין var, let ו-const](http://blog.chv.ovh/js-variables-declaration/)
+- [רנדומליות - בקוד. איך זה יכול לעבוד??? 🤔](http://blog.chv.ovh/true-random/)
+<!-- BLOG-POST-LIST:END -->
