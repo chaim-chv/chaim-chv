@@ -30,9 +30,9 @@ Like you can see - i trying to learn and do some WEB development...
 #### **📝 פוסטים אחרונים בבלוג שלי:**
 
 <!-- BLOG-POST-LIST:START -->
-- [מושגים בסיסיים ב-JS: סְקוֹפּ Scope](http://blog.chv.ovh/js-scopes/)
-- [אפליקציית NodeJS לאוטומציה של העדכונים בבלוג](http://blog.chv.ovh/ghost-webhook-to-newsletter/)
-- [שליחת מייל לרשימת תפוצה (bulk messaging) בקלות עם גוגל סקריפט](http://blog.chv.ovh/gas-bulk-messaging/)
-- [רשימת תפוצה מגוגל סקריפט - לאנשי קשר של גוגל](http://blog.chv.ovh/mailing-list-gas/)
-- [מושגים בסיסיים ב-JS: ההבדלים העיקריים בין var, let ו-const](http://blog.chv.ovh/js-variables-declaration/)
+- [מושגים בסיסיים ב-JS: סְקוֹפּ Scope](https://blog.chv.ovh/js-scopes/)
+- [אפליקציית NodeJS לאוטומציה של העדכונים בבלוג](https://blog.chv.ovh/ghost-webhook-to-newsletter/)
+- [שליחת מייל לרשימת תפוצה (bulk messaging) בקלות עם גוגל סקריפט](https://blog.chv.ovh/gas-bulk-messaging/)
+- [רשימת תפוצה מגוגל סקריפט - לאנשי קשר של גוגל](https://blog.chv.ovh/mailing-list-gas/)
+- [מושגים בסיסיים ב-JS: ההבדלים העיקריים בין var, let ו-const](https://blog.chv.ovh/js-variables-declaration/)
 <!-- BLOG-POST-LIST:END -->
