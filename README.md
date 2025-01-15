@@ -30,9 +30,9 @@ Like you can see - i trying to learn and do some WEB development...
 #### **📝 פוסטים אחרונים בבלוג שלי:**
 
 <!-- BLOG-POST-LIST:START -->
+- [תכונות מעניינות בסריאליזציה של אובייקטים ב-JS](https://blog.chv.ovh/articles/json-stringify)
 - [אֵיי אַיי](https://blog.chv.ovh/articles/ai-atheist)
 - [הפניית פורטים ב-VSCode: לא צריך יותר את Ngrok](https://blog.chv.ovh/articles/vscode-built-in-port-forwarding)
 - [תעשו לי טובה ותעבדו עם Counter](https://blog.chv.ovh/articles/python-counter)
 - [מושגים בסיסיים ב-JS: סְקוֹפּ Scope](https://blog.chv.ovh/articles/js-scopes)
-- [אפליקציית NodeJS לאוטומציה של העדכונים בבלוג](https://blog.chv.ovh/articles/ghost-webhook-to-newsletter)
 <!-- BLOG-POST-LIST:END -->
